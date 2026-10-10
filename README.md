@@ -355,8 +355,8 @@ python scripts/check_env.py
 ### Clone
 
 ```bash
-git clone https://github.com/chinmayee1096/Techsahaya.git
-cd Techsahaya
+git clone https://github.com/NinadPandith/Tech_Sahaya.git
+cd Tech_Sahaya
 ```
 
 ### Backend
@@ -718,3 +718,7 @@ The repository includes the source files required to run the project. Sensitive 
 - generated RAG cache files (`data/.cache/`)
 
 The RAG index and retrieval cache under `data/.cache/` are generated artifacts. They are excluded from Git and rebuilt automatically (hash-based) on first run, so a fresh clone runs without any manual setup.
+
+## 📄 License
+
+[MIT](LICENSE)
