@@ -48,5 +48,6 @@
   "cookieConsentTitle": "DPDP Citizen Privacy Notice",
   "cookieConsentDesc": "Tech Sahaya uses essential session cookies solely for multilingual persistence and security sandboxing. We strictly forbid third-party ad tracking.",
   "acceptCookies": "Accept & Continue",
-  "cookieSettings": "Cookie Preferences"
+  "cookieSettings": "Cookie Preferences",
+  "continue": "Continue"
 }

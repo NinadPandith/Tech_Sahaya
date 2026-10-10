@@ -29,6 +29,23 @@ Benefit Tracking
 
 The platform combines deterministic eligibility logic, structured scheme data, RAG-based assistance, secure document handling, role-based access control, and privacy-first data management.
 
+## 📸 Screenshots
+
+![Tech Sahaya landing page](docs/screenshots/landing.png)
+
+| Scheme discovery | Benefits you may be missing |
+|---|---|
+| ![Scheme discovery](docs/screenshots/scheme-discovery.png) | ![Welfare gaps](docs/screenshots/welfare-gaps.png) |
+
+<details>
+<summary>More screenshots</summary>
+
+**Eligibility checker**
+
+![Eligibility checker](docs/screenshots/eligibility.png)
+
+</details>
+
 ## 🎯 Core Capabilities
 
 ### 👥 Citizen Workflows
